@@ -1,0 +1,704 @@
+pwd
+vim /etc/sudoers
+visudo vim /etc/sudoers
+visudo
+pwd
+ls
+cd/root
+cd..
+cd ..
+ls
+pwd
+cd /home
+ls
+cd /repogit
+cd repogit/
+ls
+bash ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+cd ..
+ls
+pwd
+/root
+cd /root
+ls
+mkdir repogit
+ls
+cd repogit
+ls
+git clone https://github.com/juarezpablo/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-.git
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+ls
+cd ..
+ls
+cd /home
+ls
+rm -r repogit
+ls
+cd /root/repogit
+ls
+bash ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+bash ~/.bashrc && history -a
+bash source  ~/.bashrc  && history -a
+bash  source  ~/.bashrc  && history -a
+bash source ~/.bashrc && history -a
+ls
+tree
+ls
+cd UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+ls
+tree
+mkdir -p /Examenes_UTN/{alumno_1/parcial_{1..3},alumno_2/parcial_{1..3},alumno_3/parcial_{1..3},profesores}
+ls
+tree
+cd ..
+;s
+ls
+cd ..
+ls
+cd /Examenes_UTN/
+tree
+ls
+cd ..
+tree
+ls
+tree Examenes_UTN/
+ls -l
+cd /Examenes_UTN/
+tree
+ls
+ls -l
+tree
+tree 
+cd /Examenes_UTN/alumno_
+cd /Examenes_UTN/alumno_1
+ls
+tree
+cd ..
+tree
+cd ..
+sudo tree
+cd /Examenes_UTN/
+tree
+sudo tree
+ls -l
+tree
+ls - l
+ls -l
+tree
+sudo apt install tree
+tree
+install tree
+tree
+sudo snap remove tree
+sudo rm -rf $HOME/tree
+tree
+sudo apt install tree
+sudo apt update
+sudo apt-get install tree
+tree
+cd ..
+tree
+ls
+tree
+sudo apt install tree
+tree
+sudo apt-get install tree
+ls
+tree
+cd ..
+tree
+cd /bin
+tree
+cd ..
+tree
+sudo apt install tree
+tree
+sudo tree
+cd /Examenes_UTN/
+tree
+sudo tree
+~/.bashrc
+sudo ~/.bashrc
+bash ~/.bashrc
+sudo bash ~/.bashrc
+tree
+sudo tree
+cd ..
+sudo /Examenes_UTN/ tree
+cd ..
+ls
+cd /home
+tree
+sudo tree
+cd ..
+ls
+cd /home/vagrant/
+ls
+cd /etc/
+ls
+cd /root/repogit
+ls
+sudo tree
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+sudo tree
+vim PUNTO_A.sh
+cat PUNTO_A.sh
+fdisk -l
+fdisk /dev/sdc
+fdisk -l
+vim PUNTO_B.sh
+cat PUNTO_B.sh
+sudo bash PUNTO_B.sh
+chmod 765 PUNTO_B.sh
+./PUNTO_B.sh
+vim PUNTO_B.sh
+chmod 764 PUNTO_B.sh
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+vim PUNTO_B.sh
+chmod 764 PUNTO_B.sh
+sudo bash PUNTO_B.sh
+cat PUNTO_B.sh 
+vim PUNTO_B.sh
+cat PUNTO_B.sh 
+sudo bash PUNTO_B.sh
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+fdisk -l
+cat PUNTO_B.sh 
+vim PUNTO_B.sh
+cat PUNTO_B.sh 
+sudo bash PUNTO_B.sh
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+fdisk -l
+fdisk 
+fisk sdc
+sudo fdisk /dev/sdc
+fdisk -l
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo fdisk /dev/sdc
+fdisk -l
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo fdisk /dev/sdc
+fdisk -l
+sudo bash PUNTO_B.sh
+fdisk -l
+sudo fdisk /dev/sdc
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+sudo fdisk /dev/sdc
+fdisk -l
+vim PUNTO_B.sh
+fdisk -l
+sudo fdisk /dev/sdc
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+fdisk -l
+sudo fdisk /dev/sdc
+vim PUNTO_B.sh
+sudo fdisk /dev/sdc
+fdisk -l
+sudo bash PUNTO_B.sh
+fdisk -l
+sudo fdisk /dev/sdc
+vim PUNTO_B.sh
+fdisk -l
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo fdisk /dev/sdc
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+fdisk -l
+sudo fdisk /dev/sdc
+fdisk -l
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+fdisk -l
+sudo fdisk /dev/sdc
+cat  PUNTO_B.sh
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo fdisk /dev/sdc
+fdisk -l
+sudo bash PUNTO_B.sh
+fdisk -l
+sudo fdisk /dev/sdc
+vim PUNTO_B.sh
+sudo fdisk /dev/sdc
+fdisk -l
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo fdisk /dev/sdc
+sudo bash PUNTO_B.sh
+fdisk -l
+sudo fdisk /dev/sdc
+vim PUNTO_B.sh
+fdisk -l
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo fdisk /dev/sdc
+fdisk -l
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+fdisk -l
+cat P
+
+sudo bash PUNTO_B.sh
+fdisk -l
+sudo fdisk /dev/sdc
+vim PUNTO_B.sh
+fdisk -l
+cat PUNTO_B.sh 
+sudo bash PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo fdisk /dev/sdc
+fdisk -l
+sudo bash PUNTO_B.sh
+fdisk -l
+sudo fdisk /dev/sdc
+fdisk -l
+sudo fdisk /dev/sdc
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+sudo fdisk /dev/sdc
+fdisk -l
+vim PUNTO_B.sh
+fdisk -l
+vim PUNTO_B.sh
+sudo bash PUNTO_B.sh
+cat /Examenes_UTN/alumno_1/parcial_1
+vim PUNTO_B.sh
+sudo mount /dev/sdc1 /Examenes-UTN/alumno_1/parcial_1
+sudo mount /dev/sdc1 /Examenes_UTN/alumno_1/parcial_1
+sudo lsblk -f
+cat /etc/fstab
+echo "/dev/sdc1 /Examenes_UTN/alumno_1/parcial_1 ext4 defaults 0 0" | sudo tee -a /etc/fstab
+cat /etc/fstab
+vim PUNTO_B.sh
+git status
+git add .
+git status
+git commit -m "Add: Estructura Examen, Punto_A.sh,Punto_B.sh"
+git push
+ssh-keygen
+pwd
+cd /root/
+ls -l
+pwd
+ls
+ls -l
+cd ..
+ls
+sudo cd /root
+cd /root
+cd /root/
+ls
+cd /root/repogit
+ls
+ls -l
+cd /root
+pwd
+cd .ssh/
+ls -la
+cat id_rsa.pub
+git --version
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+git add .
+git status
+git commit -m "Add: Estructura Examen, Punto_A.sh,Punto_B.sh"
+git push
+vim PUNTO_B.sh
+vim PUNTO_A.sh
+cd..
+cd /root/repogit
+git clone git@github.com:juarezpablo/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-.git
+cd /root
+ls
+sudo rm -r repogit
+ls
+mkdir repogit
+ls
+cd /repogit
+cd /root/repogit
+git clone git@github.com:juarezpablo/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-.git
+ls
+git clone git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+ls
+sudo bash ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+sudo  source  ~/.bashrc  && history -a
+sudo bash source  ~/.bashrc  && history -a
+sudo bash ~/.bashrc && history -a
+cd /root
+ls
+cd repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+ls
+tree
+cd /root/repogit
+git status
+git --version
+git status
+ls
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+git status
+git add ,
+git add .
+git status
+git commit -m "Add: Carpetas de examen"
+git push
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/RTA_SCRIPT_Examen_20241007/
+vim Punto_B.sh
+vim Punto_A.sh
+cd ..
+git status
+git add .
+git status
+git commit -m "Add: Modificacion Punto_A, Punto_B"
+git push
+git status
+cd /root/repogit
+fdisk -l
+sudo lsblk -f
+cd /etc/passwd
+cd /etc
+ls
+cat passwd
+cd /root/repogit
+vim PUNTO_C.sh
+sudo bash PUNTO_C.sh
+cat passwd
+cd /etc
+cat passwd
+vim PUNTO_C.sh
+cd /root/repogit
+vim PUNTO_C.sh
+sudo bash PUNTO_C.sh
+cd /etc
+cat passwd
+id p1c2_2024_A1
+id
+id p1c2_2024_A2
+ls -l /etc/sudoers.d
+visudo
+chown p1c2_2024_A1:p1c2_2024_gAlumno_grupo /Examenes-UTN/alumno_1
+chown p1c2_2024_A1:p1c2_2024_gAlumno /Examenes-UTN/alumno_1
+cd /Examenes_UTN/alumno_1
+cd /root
+chown p1c2_2024_A1:p1c2_2024_gAlumno /Examenes_UTN/alumno_1
+chown p1c2_2024_A2:p1c2_2024_gAlumno /Examenes-UTN/alumno_2
+chown p1c2_2024_A2:p1c2_2024_gAlumno /Examenes_UTN/alumno_2
+chown p1c2_2024_A3:p1c2_2024_gAlumno /Examenes_UTN/alumno_3
+chown p1c2_2024_P1:p1c2_2024_gProfesores /Examenes_UTN/profesores
+ls -l /etc/sudoers.d
+visudo
+cd /Examenes_UTN/alumno_1/
+echo "saludo" >> prueba
+ls
+ls -l /etc/sudoers.d
+visudo
+cat passwd
+cd /root
+cat passwd
+cd /etc/passwd
+cd /etc/
+cat passwd
+sudo chown -R p1c2_2024_A1:p1c2_2024_gAlumno /Examenes_UTN/alumno_1
+cd /Examenes_UTN/
+ls -l
+sudo chown -R p1c2_2024_A2:p1c2_2024_gAlumno /Examenes_UTN/alumno_2
+sudo chown -R p1c2_2024_A3:p1c2_2024_gAlumno /Examenes_UTN/alumno_3
+sudo chown -R p1c2_2024_P1:p1c2_2024_gProfesores /Examenes_UTN/profesores
+cd /Examenes_UTN/alumno_1/
+ls
+echo "saludo2" >> prueba
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+ls
+vim PUNTO_C.sh
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/RTA_SCRIPT_Examen_20241007/
+ls 
+vim Punto_c.sh
+vim Punto_B.sh
+vim Punto_C.sh
+cd /root/repogit
+vim PUNTO_C.sh
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/RTA_SCRIPT_Examen_20241007/
+vim Punto_C.sh
+cd /root/repogit
+vim PUNTO_C.sh
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/RTA_SCRIPT_Examen_20241007/
+vim Punto_C.sh
+cd /root/repogit
+cd /Examenes_UTN/
+ls -l
+sudo chmod 750 /Examenes_UTN/alumno_1
+ls -l
+sudo -su -c "whoami > /Examenes_UTN/alumnos_1/validar1.txt" p1c2_2024_A1
+
+sudo whoami > /Examenes_UTN/alumnos_1/validar1.txt
+cd /root/repogit
+ls
+cd /Examenes_UTN/
+ls -l
+tree
+sudo su -c "whoami > /Examenes-UTN/alumnos_1/validar1.txt" p1c2_2024_A1
+sudo su -c "whoami > /Examenes_UTN/alumnos_1/validar1.txt" p1c2_2024_A1
+sudo su -c "whoami > /Examenes_UTN/alumno_1/validar1.txt" p1c2_2024_A1
+tree
+sudo su -c "whoami > /Examenes_UTN/alumno_3/validar1.txt" p1c2_2024_A3
+sudo su -c "whoami > /Examenes_UTN/profesores/validar1.txt" p1c2_2024_P1
+tree
+cat validar1.txt
+sudo su -c "whoami > /Examenes_UTN/profesores/validar.txt" p1c2_2024_P1
+tree
+cat validar.txt
+cat /Examenes_UTN/profesores/validar.txt
+sudo su -c "whoami > /Examenes_UTN/profesores/validar1.txt" 
+cat /Examenes_UTN/profesores/validar1.txt
+cd /root/repogit
+ls
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/RTA_SCRIPT_Examen_20241007/
+ls
+vim Punto_C.sh
+sudo bash Punto_C.sh
+cd /Examenes_UTN/
+tree
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+git status
+git add .
+git status
+git commit -m "ADD: Punto_C.bash"
+git push
+mkdir -p Estructura_Asimetrica/{{correo/cartas_{1..100},carteros_{1..10}},clientes/{cartas_{1..100}}
+cd /root
+ls
+ls -l
+cd /Estructura_Asimetrica
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+tree
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -r Estructura_Simetrica
+cd /root/
+sudo rm -r Estructura_Simetrica
+sudo rm -r Estructura_Asimetrica
+sudo rm -r Estructura_ASimetrica
+cd /repogit
+cd /root/repogit
+pwd
+ls -l
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+sudo rm -r Estructura_ASimetrica
+ls -l
+sudo rm -r Estructura_Asimetrica
+mkdir -p Estructura_Asimetrica/{correo/{cartas_{1..100},carteros_{1..10}},clientes/{cartas_{1..100}}
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -r Estructura_Asimetrica
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+mkdir -p Estructura_2/{correo/{cartas_{1..100},carteros_{1..10}},clientes/{cartas_{1..10}}
+ls -l
+sudo rm -r Estructura_2
+ls -l
+mkdir -p Estructura_Asimetrica/{clientes/cartas_{1..100},correo/{cartas_{1..100},carteros_{1..10}}}
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+ls -l
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/RTA_SCRIPT_Examen_20241007/
+ls
+vim Punto_D.sh
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+git status
+git add .
+git commit -m "ADD:Modif Punto_D.sh"
+git push
+fdisk -l
+ls -l
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/RTA_ARCHIVOS_Examen_20241007/
+ls -l
+/proc/meminfo 
+sudo /proc/meminfo
+cat /proc/meminfo
+grep "MemTotal" /proc/meminfo > Filtro_Basico.txt
+ls -l
+cat Filtro_Basico.txt 
+dmidecode -t chassis 
+cat dmidecode -t chassis 
+dmidecode -t chassis | grep -i chassis 
+dmidecode -t chassis | grep -i chassis manufacturer
+dmidecode -t chassis | grep -i chassis | grep -i manufacturer
+dmidecode -t chassis | grep -i chassis | manufacturer
+dmidecode -t chassis | grep -i chassis,manufacturer
+dmidecode -t chassis | grep -i chassis manufacturer
+dmidecode -t chassis | grep -i manufacturer
+dmidecode -t chassis | grep -i manu
+dmidecode -t chassis | grep -i 'chassis|manufacturer'
+dmidecode -t chassis | grep -i -e 'chassis|manufacturer'
+dmidecode -t chassis | grep -i 'chassis'
+dmidecode -t chassis | grep -i -e 'chassis'
+dmidecode -t chassis | grep -i -e 'chassis|manufacturer'
+dmidecode -t chassis | grep -i -e chassis -e manufacturer
+dmidecode -t chassis | grep -i -e chassis -e manufacturer >> Filtro_Basico.txt
+cat Filtro_Basico.txt 
+dmidecode -t chassis | grep -i -e chassis -e manufacturer
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+ls -l
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/RTA_SCRIPT_Examen_20241007/
+vim Punto_E.sh
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+git status
+git add .
+git status
+git commit -m "ADD: Punto_E.sh"
+git push
+cat Filtro_Basico.txr
+cat Filtro_Basico.txt
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/RTA_ARCHIVOS_Examen_20241007/
+cat Filtro_Basico.txt
+cd /root/repogit/
+ls -l
+vim PUNTO_C.sh
+sudo bash PUNTO_C.sh
+ls -l
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/RTA_SCRIPT_Examen_20241007/
+ls -l
+vim Punto_D.sh
+vim Punto_E.sh
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/RTA_ARCHIVOS_Examen_20241007/
+ls -l
+sudo rm -r Filtro_Basico.txt
+ls -l
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/RTA_SCRIPT_Examen_20241007/
+sudo git bash Punto_E.sh
+sudo bash Punto_E.sh
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/RTA_ARCHIVOS_Examen_20241007/
+ls -l
+cat Filtro_Basico.txt
+curl -s ifconfig.me
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+git remote get-url origin
+curl -s ifconfig.me
+cat curl -s ifconfig.me
+dmidecode -t chassis | grep -i -e chassis -e manufacturer >> $HOME/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/RTA_ARCHIVOS_Examen_20241007/Filtro_Basico.txt
+curl -s ifconfig.me | grep -i 186 | awk -F 'root' '{print"IP"$2}'
+curl -s ifconfig.me grep -i 186 | awk -F 'root' '{print"IP"$2}'
+root@VMPruebas2:~/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-# curl -s ifconfig.me grep -i 186 | awk -F 'root' '{print"IP"$2}'
+root@VMPruebas2:~/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-# curl -s ifconfig.me grep -i 18
+curl -s ifconfig.me grep -i 18
+config.me grep -i 186 | awk -F 'root' '{print"IP"$2}'
+curl -s ifconfig.me grep -i 
+curl -s ifconfig.me 
+d
+curl -s ifconfig.me grep -i root
+curl -s ifconfig.me
+curl -s ifconfig.me | awk  '{print"IP"}'
+curl -s ifconfig.me grep 168
+echo "Mi ip es:" o "mi ip es: " |  curl -s ifconfig.me grep 168
+echo "Mi ip es:" o "mi ip es: " |  grep 168
+echo "Mi ip es:" o "mi ip es: " 
+echo "Mi ip es:" |  curl -s ifconfig.me 
+cd /root/repogit/
+ls -l
+vim PUNTO_C.sh
+sudo bash PUNTO_C.sh
+vim PUNTO_C.sh
+echo 'la cosa'
+echo 'la cosa $(curl -s ifconfig.me)'
+echo 'la cosa ' | curl -s ifconfig.me
+curl -s ifconfig.me | echo 'la cosa'
+vim PUNTO_C.sh
+sudo bash PUNTO_C.sh
+vim PUNTO_C.sh
+sudo bash PUNTO_C.sh
+curl -s ifconfig.me | grep 1
+vim PUNTO_C.sh
+sudo bash PUNTO_C.sh
+vim PUNTO_C.sh
+sudo bash PUNTO_C.sh
+vim PUNTO_C.sh
+sudo bash PUNTO_C.sh
+vim PUNTO_C.sh
+sudo bash PUNTO_C.sh
+vim PUNTO_C.sh
+sudo bash PUNTO_C.sh
+vim PUNTO_C.sh
+sudo bash PUNTO_C.sh
+vim PUNTO_C.sh
+sudo bash PUNTO_C.sh
+sudo cat /mount_point/etc/shadow | grep root
+sudo cat /mount_point/etc/shadow
+sudo cat /root/mount_point/etc/shadow
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+git status
+git add .
+git commit -m "Add: Punto_E.sh"
+git push
+ls -l
+cat 
+ls -l
+/root/
+cd /root
+ls -l
+cd /root/repogit
+ls -l
+cd /root/repogit/UTNFRA_SO_1P2C_2024_-Juarez-Pablo-/
+ls -l
+cat README.md 
+ls -l
+echo "Nombre : Juan Pablo Juarez" >> README.md
+cat README.md 
+echo "Legajo: 114038" >> README.md
+cat README.md 
+echo "Division C-311" >> README.md
+cat README.md 
+sudo history -a
+sudo bash history -a
+ls -l
+sudo bash history -a
+sudo bash /history -a
+sudo history -a
+history -a
+vim ~/.bash_history
+ls -l
